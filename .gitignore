@@ -1,4 +1,4 @@
 *.pyc
 dist
-snov.egg-info
+snov_python.egg-info
 build
