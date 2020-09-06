@@ -1,0 +1,4 @@
+*.pyc
+dist
+snov_python.egg-info
+build
